@@ -1,0 +1,14 @@
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\obj\Debug\net7.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\obj\Debug\net7.0\Task5.AssemblyInfoInputs.cache
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\obj\Debug\net7.0\Task5.AssemblyInfo.cs
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\obj\Debug\net7.0\Task5.csproj.CoreCompileInputs.cache
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\bin\Debug\net7.0\Task5.exe
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\bin\Debug\net7.0\Task5.deps.json
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\bin\Debug\net7.0\Task5.runtimeconfig.json
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\bin\Debug\net7.0\Task5.dll
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\bin\Debug\net7.0\Task5.pdb
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\obj\Debug\net7.0\Task5.dll
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\obj\Debug\net7.0\refint\Task5.dll
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\obj\Debug\net7.0\Task5.pdb
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\obj\Debug\net7.0\Task5.genruntimeconfig.cache
+D:\Курс GeekBrains\Git_education_C#\Lesson1\Task5\obj\Debug\net7.0\ref\Task5.dll
